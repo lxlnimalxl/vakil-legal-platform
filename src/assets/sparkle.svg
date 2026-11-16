@@ -1,0 +1,22 @@
+<svg width="134" height="120" viewBox="0 0 134 120" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g filter="url(#filter0_d_6_2)">
+<path d="M54.3134 23.8479V23.8479C57.4409 29.835 64.7015 32.335 70.852 29.5427V29.5427V29.5427C64.8649 32.6702 62.3649 39.9308 65.1573 46.0813V46.0813V46.0813C62.0298 40.0942 54.7692 37.5942 48.6187 40.3866V40.3866V40.3866C54.6057 37.2591 57.1057 29.9985 54.3134 23.8479V23.8479Z" fill="#FFD100"/>
+</g>
+<g filter="url(#filter1_d_6_2)">
+<path d="M60.5835 76.6769V76.6769C63.365 82.0016 69.8223 84.225 75.2923 81.7415V81.7415V81.7415C69.9676 84.523 67.7442 90.9803 70.2277 96.4504V96.4504V96.4504C67.4462 91.1257 60.9889 88.9023 55.5188 91.3857V91.3857V91.3857C60.8435 88.6042 63.0669 82.1469 60.5835 76.6769V76.6769Z" fill="#FFD100"/>
+</g>
+<g filter="url(#filter2_d_6_2)">
+<path d="M101.254 24.5582C111.04 34.0624 103.564 57.6338 84.5557 77.2064C65.5473 96.7791 42.2046 104.941 32.4182 95.4369C22.6319 85.9327 30.1079 62.3613 49.1163 42.7887C68.1247 23.216 91.4675 15.054 101.254 24.5582Z" stroke="#FFD100" stroke-width="1.5"/>
+</g>
+<defs>
+<filter id="filter0_d_6_2" x="44.6187" y="19.8479" width="30.2334" height="30.2334" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#FFD100" flood-opacity="0.6"/>
+</filter>
+<filter id="filter1_d_6_2" x="51.5188" y="72.6769" width="27.7735" height="27.7735" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#FFD100" flood-opacity="0.6"/>
+</filter>
+<filter id="filter2_d_6_2" x="24.1165" y="16.5919" width="85.439" height="86.8112" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#FFD100" flood-opacity="0.6"/>
+</filter>
+</defs>
+</svg>
